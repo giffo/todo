@@ -1,6 +1,6 @@
 # todo
 
-sort out config readme and npm
+sort out config readme and npm, do file checks
 
 finish logger/server
 
