@@ -10,3 +10,4 @@ copyfile method for utils
 
 upload friendly dates after creating readme
 
+fdates needs a readme api
