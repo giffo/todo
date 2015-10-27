@@ -1,0 +1,22 @@
+{
+	
+	"name": "giffo-!!!!!!!!!!",
+	"version": "0.0.1",
+	"description": "giffo !!!!!!!!!!",
+	"author": "giffo <github@giffo.org>",
+	"main": "index.js",
+		
+	"repository": {
+		"type":"git",
+		"url":"https://github.com/giffo/!!!!!!!!!!"
+	},
+	
+	"bugs": {
+		"url": "https://github.com/giffo/!!!!!!!!!!/issues" 
+	},
+	
+	"keywords": [
+		"giffo-!!!!!!!!!!", "!!!!!!!!!!"
+	],
+	"license": "MIT"
+}
