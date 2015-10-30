@@ -3,14 +3,12 @@
 
 # todo
 
-sort out config readme and npm, do file checks
+sort out config readme and npm(done), do file checks
 
-finish logger/server
+finish logger/server(by monday)
 
 git templates
 
 copyfile method for utils
 
-upload friendly dates after creating readme
-
-fdates needs a readme api
+upload friendly dates after creating readme, uploaded just need to do a readme. (fdates needs a readme api)
