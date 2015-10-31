@@ -5,7 +5,7 @@
 
 sort out config readme and npm(done), do file checks
 
-finish logger/server(by monday)
+finish logger/server(by monday, hopefully)
 
 git templates
 
