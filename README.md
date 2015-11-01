@@ -7,7 +7,7 @@ sort out config readme and npm(done), do file checks
 
 finish logger/server(by monday, hopefully)
 
-git templates
+templates, needs to be check, readme sorted and git,npm'd
 
 copyfile method for utils
 
