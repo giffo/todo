@@ -3,7 +3,7 @@
 
 # todo
 
-sort out config readme and npm(done), do file checks
+sort out config readme
 
 finish logger/server
 
